@@ -1,0 +1,5 @@
+{
+  "name": "dumber0328-mods",
+  "owner": { "name": "dumber0328" },
+  "plugins": [{ "name": "model-router", "source": "./" }]
+}
